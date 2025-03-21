@@ -5,7 +5,7 @@
  - Инструменты: DevTools, Postman, Charles, Android Studio, SQL, Jmeter.
  - Дополнительно: Анализ требований, тест-дизайн.
 
-Подробнее о моем опыте и навыках в резюме: https://clck.ru/3J2aRe
+Подробнее о моем опыте и навыках в резюме: https://clck.ru/3J4Grg
 
 **Контакты**
  - Email: e.solomatina.work@gmail.com
